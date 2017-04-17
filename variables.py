@@ -1,0 +1,4 @@
+paths = {'read' : '',
+'archive' : '',
+'store': ''
+}
